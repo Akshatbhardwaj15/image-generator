@@ -49,3 +49,32 @@ Follow these steps to run the project locally:
    ```bash  
    git clone https://github.com/your-username/ai-image-generator.git  
    cd ai-image-generator  
+
+Install dependencies
+
+For the backend:
+cd server  
+npm install  
+
+For the frontend:
+cd client  
+npm install  
+
+Set up environment variables:
+Create a .env file in the server directory with the following keys:
+MONGO_URI=<your-mongodb-uri>  
+CLIPDROP_API_KEY=<your-clipdrop-api-key>  
+PORT=5000  
+
+Run the application:
+
+Start the backend server:
+cd server  
+npm start  
+
+Start the frontend:
+cd client
+npm start
+
+![3rd](https://github.com/user-attachments/assets/238d4094-53bb-40bd-821c-91e8bba209f1)
+
