@@ -19,7 +19,7 @@
 
 - **Frontend**:  
   - Vite  
-  - React.js  
+  - React.js                                                        
   - Tailwind CSS  
   - Framer Motion  
 
