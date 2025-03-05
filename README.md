@@ -4,7 +4,7 @@
 
 ---                                                                                              
 
-## 🚀 Features                                                                                  
+## 🚀 Features                                                                                          
                                                                                                
 - **Image Generation with AI**: Powered by Clipdrop API to create custom images.                                             
 - **Dynamic Animations**: Seamless and interactive animations using Framer Motion.                                                                                                      
