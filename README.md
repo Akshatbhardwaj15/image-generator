@@ -3,7 +3,7 @@
 🎨 **A dynamic AI-powered image generation application** that brings creativity to life! This project leverages modern web technologies and AI capabilities to generate stunning visuals.  
 
 ---                                                                                              
-
+                   
 ## 🚀 Features                                                                                          
                                                                                                
 - **Image Generation with AI**: Powered by Clipdrop API to create custom images.                                             
