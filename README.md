@@ -9,7 +9,7 @@
 - **Image Generation with AI**: Powered by Clipdrop API to create custom images.                                                                   
 - **Dynamic Animations**: Seamless and interactive animations using Framer Motion.                                                                                                                      
 - **Modern UI**: Built with Tailwind CSS for a responsive and sleek design.                                                                                                               
-- **Fast & Efficient**: Developed with Vite and React.js for blazing-fast performance.  
+- **Fast & Efficient**: Developed with Vite and React.js for blazing-fast performance.                                                    
 - **Backend Integration**: Node.js and Express.js power the backend, ensuring smooth API communication.                         
 - **Database Support**: MongoDB and Mongoose handle data storage and retrieval.      
 
