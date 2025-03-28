@@ -17,7 +17,7 @@
                                                                 
 ## 🛠️ Technologies Used  
 
-- **Frontend**:  
+- **Frontend**:   
   - Vite  
   - React.js                                                        
   - Tailwind CSS  
