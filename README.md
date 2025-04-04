@@ -2,7 +2,7 @@
                             
 🎨 **A dynamic AI-powered image generation application** that brings creativity to life! This project leverages modern web technologies and AI capabilities to generate stunning visuals.  
 
----                                                                                                                                                        
+---                                                                                                                                                            
                                                                                                               
 ## 🚀 Features                                                                                                                          
                                                                                                                                
