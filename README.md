@@ -14,7 +14,7 @@
 ---
                                                                 
 ## 🛠️ Technologies Used  
-
+                                                        
 - **Frontend**:   
   - Vite  
   - React.js                                                        
