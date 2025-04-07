@@ -4,7 +4,7 @@
              
 ---                                                                    
 ## 🚀 Features                                                                                                      
-- **Image Generation with AI**: Powered by Clipdrop API to create custom images.                                                                            
+- **Image Generation with AI**: Powered by Clipdrop API to create custom images.                                                                                                           
 - **Dynamic Animations**: Seamless and interactive animations using Framer Motion.                                                                                                                             
 - **Modern UI**: Built with Tailwind CSS for a responsive and sleek design.                                                                                                                    
 - **Fast & Efficient**: Developed with Vite and React.js for blazing-fast performance.                                                                                    
